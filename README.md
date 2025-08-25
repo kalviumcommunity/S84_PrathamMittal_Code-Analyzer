@@ -47,15 +47,6 @@ The **AI Code Analyzer** uses the **Gemini API** (`gemini-1.5-flash` for text, `
 ## 🎥 Video Explanations
 Videos (2-5 min) for each task, uploaded to [Google Drive].
 
-
----
-
-## 🗂 Development Plan
-- **PR 1 (Tasks 1-9)**: README, prompts, evaluation, tokens
-- **PR 2 (Tasks 10-12)**: Temperature, top P, top K
-- **PR 3 (Tasks 13-15)**: Stop sequence, JSON output, function calling
-- **PR 4 (Tasks 16-18)**: Embeddings, FAISS, similarities
-
 ---
 
 ## 📋 Task Details
