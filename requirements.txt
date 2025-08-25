@@ -1,0 +1,5 @@
+google-generativeai
+pytest
+python-dotenv
+numpy
+faiss-cpu
